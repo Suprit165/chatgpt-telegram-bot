@@ -1,8 +1,8 @@
-python-dotenv~=1.0.0
+python-dotenv~=0.7.0
 pydub~=0.25.1
 tiktoken==0.4.0
 openai==0.27.8
-python-telegram-bot==20.3
+python-telegram-bot==23.2.1
 requests~=2.31.0
 tenacity==8.2.2
 wolframalpha~=5.0.0
